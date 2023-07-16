@@ -1,3 +1,3 @@
 # Android_Calculator
 
-•Simple Calculator made in Android Studio
+- Simple Calculator made in Android Studio
